@@ -1,0 +1,14 @@
+# Project 20 – Path Tracing Tool (SDN-based)
+# Dependencies
+
+# SDN Controller Framework
+ryu>=4.34
+
+# Network graph algorithms
+networkx>=2.6
+
+# REST API testing (test_path_tracer.py)
+requests>=2.28
+
+# Network emulation (run separately as root)
+mininet>=2.3.0
